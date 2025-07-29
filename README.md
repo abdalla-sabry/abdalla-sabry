@@ -3,6 +3,9 @@
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="50" height="50" />
 </h1>
 
+<!-- Thick line under greeting -->
+<div align="center" style="width: 80%; height: 6px; background-color: #333; margin: 20px auto;"></div>
+
 <p align="center">
   <strong>
     <span style="font-size: 42px; font-weight: 900;">
@@ -11,20 +14,21 @@
   </strong>
 </p>
 
-<!-- Thick colored line below the quote -->
-<div align="center" style="width: 80%; height: 6px; background-color: #333; margin: 10px auto 40px;"></div>
+<!-- Thick line under quote -->
+<div align="center" style="width: 80%; height: 6px; background-color: #333; margin: 20px auto 40px;"></div>
 
+<h3>👨‍🎓 About Me</h3>
 
-### 👨‍🎓 About Me
-<div style="width: 80px; height: 4px; background-color: #333; margin-bottom: 16px;"></div> 
+<ul>
+  <li>🎓 Graduated from <strong>Helwan University</strong>, Electronics and Communication Engineering</li>
+  <li>📱 Built a <strong>mobile app for EV charging stations</strong> as my graduation project</li>
+  <li>🏗️ Experienced with <strong>Clean Architecture</strong>, <strong>MVVM</strong>, and <strong>Firebase</strong></li>
+  <li>🎨 Currently learning <strong>animations</strong> to make apps more interactive</li>
+  <li>📈 Improving my <strong>Git</strong> skills and expanding my developer toolkit</li>
+  <li>💬 Ask me about anything Flutter, I'm happy to help!</li>
+  <li>📫 Reach me at: <a href="mailto:abdallah.sabry.404@gmail.com">abdallah.sabry.404@gmail.com</a></li>
+</ul>
 
-- 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
-- 📱 Built a **mobile app for EV charging stations** as my graduation project  
-- 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
-- 🎨 Currently learning **animations** to make apps more interactive  
-- 📈 Improving my **Git** skills and expanding my developer toolkit
--  💬 Ask me about anything Flutter, I'm happy to help!
-- 📫 Reach me at: abdallah.sabry.404@gmail.com
 
 <p align="center" style="margin-top: 40px;">
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="200" style="opacity: 0.15;" />

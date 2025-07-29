@@ -12,35 +12,23 @@
 </p>
 
 
-###test
+### 👨‍🎓 About Me
 
-- ![Graduation](https://img.shields.io/badge/University-Helwan-blue) Graduated from **Helwan University**, Electronics and Communication Engineering  
-- ![Mobile App](https://img.shields.io/badge/Project-EV_App-green) Built a **mobile app for EV charging stations** as my graduation project  
-- ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Arch-orange) Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
-- ![Animation](https://img.shields.io/badge/Learning-Animation-red) Currently learning **animations** to make apps more interactive  
-- ![Git](https://img.shields.io/badge/Skills-Git-black) Improving my **Git** skills and expanding my developer toolkit  
+- ![University](https://img.shields.io/badge/University-Helwan-blue?style=flat&logo=university)  
+  Graduated from **Helwan University**, Electronics and Communication Engineering
 
----
+- ![Project](https://img.shields.io/badge/Project-EV_App-green?style=flat&logo=appveyor)  
+  Built a **mobile app for EV charging stations** as my graduation project
 
-### 🌠 About Me
+- ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Arch-orange?style=flat&logo=architecture)  
+  Experienced with **Clean Architecture**, **MVVM**, and **Firebase**
 
-Hi there, I’m Heba Tarek, interested in programming and the computer field.  
-A skilled and results-driven App Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries.  
-So I improve my skills and gain knowledge in it and develop myself faster.
+- ![Animation](https://img.shields.io/badge/Learning-Animation-red?style=flat&logo=animate.css)  
+  Currently learning **animations** to make apps more interactive
 
+- ![Git](https://img.shields.io/badge/Skills-Git-black?style=flat&logo=git)  
+  Improving my **Git** skills and expanding my developer toolkit
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div>
-
-👨‍💻 I’m currently a CCE student  
-🌱 I’m currently learning Flutter
-
-</div>
-
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="profile image" width="100" style="margin-left: 20px;" />
-
-</div>
 
 
 

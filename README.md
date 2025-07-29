@@ -5,11 +5,15 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 36px; font-weight: 900;">
+    <span style="font-size: 42px; font-weight: 900;">
       "Good artists copy; great artists steal."
     </span>
   </strong>
 </p>
+
+<!-- Thick colored line below the quote -->
+<div align="center" style="width: 80%; height: 6px; background-color: #333; margin: 10px auto 40px;"></div>
+
 
 ### 👨‍🎓 About Me
 
@@ -17,18 +21,14 @@
 - 📱 Built a **mobile app for EV charging stations** as my graduation project  
 - 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
 - 🎨 Currently learning **animations** to make apps more interactive  
-- 📈 Improving my **Git** skills and expanding my developer toolkit  
+- 📈 Improving my **Git** skills and expanding my developer toolkit
+-  💬 Ask me about anything Flutter, I'm happy to help!
+- 📫 Reach me at: abdallah.sabry.404@gmail.com
 
 <p align="center" style="margin-top: 40px;">
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="200" style="opacity: 0.15;" />
 </p>
 
-### 💼 About Me
-
-- 🔭 I’m currently working on **smart EV charging station apps**
-- 🌱 Currently improving my skills in **Clean Architecture + Firebase**
-- 💬 Ask me about anything Flutter, I'm happy to help!
-- 📫 Reach me at: abdallah.sabry.404@gmail.com
 
 ---
 ### ⏳ Languages and Tools:

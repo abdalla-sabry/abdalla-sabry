@@ -4,9 +4,13 @@
 </h1>
 
 <p align="center">
-  <strong>  "Good artists copy; great artists steal."
-</strong><br>
+  <strong>
+    <span style="font-size: 24px;">
+      "Good artists copy; great artists steal."
+    </span>
+  </strong>
 </p>
+
 
 
 ---

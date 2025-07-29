@@ -14,10 +14,6 @@
 
 
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; border: none;">
-
 ### 👨‍🎓 About Me
 
 - 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
@@ -26,14 +22,10 @@
 - 🎨 Currently learning **animations** to make apps more interactive  
 - 📈 Improving my **Git** skills and expanding my developer toolkit  
 
-    </td>
-    <td style="vertical-align: top; border: none; width: 180px;">
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="200" style="opacity: 0.15;" />
+</p>
 
-      <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="150" style="border-radius: 10px;" />
-
-    </td>
-  </tr>
-</table>
 
 
 

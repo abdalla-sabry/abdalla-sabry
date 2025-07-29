@@ -12,25 +12,19 @@
 </p>
 
 
+
+
 ### 👨‍🎓 About Me
 
-- ![University](https://img.shields.io/badge/University-Helwan-blue?style=flat&logo=university)  
-  Graduated from **Helwan University**, Electronics and Communication Engineering
+- 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
+- 📱 Built a **mobile app for EV charging stations** as my graduation project  
+- 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
+- 🎨 Currently learning **animations** to make apps more interactive  
+- 📈 Improving my **Git** skills and expanding my developer toolkit  
 
-- ![Project](https://img.shields.io/badge/Project-EV_App-green?style=flat&logo=appveyor)  
-  Built a **mobile app for EV charging stations** as my graduation project
-
-- ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Arch-orange?style=flat&logo=architecture)  
-  Experienced with **Clean Architecture**, **MVVM**, and **Firebase**
-
-- ![Animation](https://img.shields.io/badge/Learning-Animation-red?style=flat&logo=animate.css)  
-  Currently learning **animations** to make apps more interactive
-
-- ![Git](https://img.shields.io/badge/Skills-Git-black?style=flat&logo=git)  
-  Improving my **Git** skills and expanding my developer toolkit
-
-
-
+<p align="center">
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="150" />
+</p>
 
 
 

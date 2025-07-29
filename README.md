@@ -16,6 +16,7 @@
 
 
 ### 👨‍🎓 About Me
+<div style="width: 80px; height: 4px; background-color: #333; margin-bottom: 16px;"></div> 
 
 - 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
 - 📱 Built a **mobile app for EV charging stations** as my graduation project  

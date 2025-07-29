@@ -62,7 +62,8 @@
 
 - ✅ Flutter Advanced Course – Blog & MVVM Pattern (Arabic)
 - ✅ Deep Clean Architecture in Flutter (Arabic)
-
+- ⏳ Master Git and GitHub Essential Skills  
+- ⏳ Flutter Animations – From Zero to Hero
 ---
 
 ### 🌐 Connect with Me
@@ -73,6 +74,4 @@
 
 ---
 
-### ⚡ Fun Fact
 
-> I believe in code that speaks for itself. Let your architecture be your signature. 💡

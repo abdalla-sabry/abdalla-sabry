@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <strong>Flutter Developer</strong> from Cairo, Egypt<br>
-  "Good artists copy; great artists steal."
+  <strong>  "Good artists copy; great artists steal."
+</strong><br>
 </p>
 
 

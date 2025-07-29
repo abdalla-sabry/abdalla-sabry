@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 42px; font-weight: 900;">
+    <span style="font-size: 54px; font-weight: 900;">
       "Good artists copy; great artists steal."
     </span>
   </strong>

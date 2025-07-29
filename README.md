@@ -5,8 +5,8 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 24px;">
-      "Good artists copy; great artists steal."
+    <span style="font-size: 32px;">
+      "Good artists copy; great artists steal"
     </span>
   </strong>
 </p>

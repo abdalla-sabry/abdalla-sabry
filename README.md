@@ -48,19 +48,16 @@ So I improve my skills and gain knowledge in it and develop myself faster.
 - 📫 Reach me at: abdallah.sabry.404@gmail.com
 
 ---
-###⏳Languages and Tools:
+### ⏳ Languages and Tools:
 
-<h3 align="center">⏳ Languages and Tools:</h3>
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) •
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)](https://dart.dev/) •
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) •
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/) •
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/) •
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) •
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-<p align="center">
-  <code>C</code> &nbsp;•&nbsp;
-  <code>Dart</code> &nbsp;•&nbsp;
-  <code>Figma</code> &nbsp;•&nbsp;
-  <code>Firebase</code> &nbsp;•&nbsp;
-  <code>Flutter</code> &nbsp;•&nbsp;
-  <code>Git</code> &nbsp;•&nbsp;
-  <code>Python</code>
-</p>
 
 
 ### 📱 Projects

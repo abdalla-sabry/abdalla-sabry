@@ -48,16 +48,20 @@ So I improve my skills and gain knowledge in it and develop myself faster.
 - 📫 Reach me at: abdallah.sabry.404@gmail.com
 
 ---
+###⏳Languages and Tools:
 
-### 🔧 Tech Stack
+<h3 align="center">⏳ Languages and Tools:</h3>
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <code>C</code> &nbsp;•&nbsp;
+  <code>Dart</code> &nbsp;•&nbsp;
+  <code>Figma</code> &nbsp;•&nbsp;
+  <code>Firebase</code> &nbsp;•&nbsp;
+  <code>Flutter</code> &nbsp;•&nbsp;
+  <code>Git</code> &nbsp;•&nbsp;
+  <code>Python</code>
+</p>
 
----
 
 ### 📱 Projects
 

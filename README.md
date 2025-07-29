@@ -38,7 +38,7 @@
 ---
 ### ⏳ Languages and Tools:
 
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) •
+[![C++](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) •
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)](https://dart.dev/) •
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) •
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/) •

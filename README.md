@@ -12,16 +12,23 @@
 
 ### 🌠 About Me
 
-Hi there, I’m Heba Tarek, Interested in programming and computers field.  
-A skilled and results-driven APP Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries.  
-So I improve my skills and gain knowledge in it and develop myself faster.
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="220" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <p>
+        Hi there, I’m Heba Tarek, interested in programming and computers field.<br>
+        A skilled and results-driven APP Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries.<br>
+        So I improve my skills and gain knowledge in it and develop myself faster.<br><br>
+        👨‍💻 I’m currently a CCE student<br>
+        🌱 I’m currently learning Flutter
+      </p>
+    </td>
+  </tr>
+</table>
 
-👨‍💻 I’m currently a CCE student  
-🌱 I’m currently learning Flutter  
-🤝 Connect with me:  
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="30" height="30" />
-
----
 
 ### 💼 About Me
 

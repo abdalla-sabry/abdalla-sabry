@@ -54,7 +54,7 @@
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | **E-Commerce App (Clean Architecture)** | Developed by me using Firebase for backend services and fully implementing Clean Architecture patterns for scalable and maintainable code. | [GitHub Repo](https://github.com/abdalla-sabry/e-commerceCleanArticture)                      |
 | **Clean Architecture Bookly App**        | A Flutter book app built with Clean Architecture principles, focusing on modularity and scalability.                  | [GitHub Repo](https://github.com/abdalla-sabry/cleanarcticture_bookly_app)                    |
-| **Smart EV Charging Station App**        | Real-time management of EV charging stations with Flutter and Firebase, emphasizing responsive design and backend integration. | *(Please provide GitHub link if available)*                                                 |
+| **Smart EV Charging Station App**        | Real-time management of EV charging stations with Flutter and Firebase, emphasizing responsive design and backend integration. |                                    |
 | **Bookly Cubit App**                      | A Flutter book app demonstrating state management using Cubit and Clean Architecture for maintainable code.           | [GitHub Repo](https://github.com/abdalla-sabry/booklyappcubit)                               |
 
 

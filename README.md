@@ -3,12 +3,23 @@
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="50" height="50" />
 </h1>
 
-
-
 <p align="center">
   <strong>Flutter Developer</strong> from Cairo, Egypt<br>
   Passionate about clean code, architecture, and building scalable mobile apps.
 </p>
+
+---
+
+### 🌠 About Me
+
+Hi there, I’m Heba Tarek, Interested in programming and computers field.  
+A skilled and results-driven APP Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries.  
+So I improve my skills and gain knowledge in it and develop myself faster.
+
+👨‍💻 I’m currently a CCE student  
+🌱 I’m currently learning Flutter  
+🤝 Connect with me:  
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="30" height="30" />
 
 ---
 

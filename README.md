@@ -11,9 +11,6 @@
   </strong>
 </p>
 
-
-
-
 ### 👨‍🎓 About Me
 
 - 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
@@ -22,13 +19,9 @@
 - 🎨 Currently learning **animations** to make apps more interactive  
 - 📈 Improving my **Git** skills and expanding my developer toolkit  
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 40px;">
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="200" style="opacity: 0.15;" />
 </p>
-
-
-
-
 
 ### 💼 About Me
 

@@ -16,7 +16,8 @@ Hi there, I’m Heba Tarek, interested in programming and the computer field.
 A skilled and results-driven App Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries.  
 So I improve my skills and gain knowledge in it and develop myself faster.
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
 <div>
 
@@ -25,9 +26,10 @@ So I improve my skills and gain knowledge in it and develop myself faster.
 
 </div>
 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="profile image" width="120" style="margin-top: 20px; margin-right: 50px;" />
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="profile image" width="100" style="margin-left: 20px;" />
 
 </div>
+
 
 
 

@@ -48,13 +48,12 @@
 
 
 
-### 📱 Projects
-
-| Project | Description |
-|--------|-------------|
-| [🛍️ E‑Commerce App](https://github.com/abdalla-sabry/e-commerceCleanArticture) | Modular shopping app using Clean Architecture |
-| EV Charging Station App | Real-time smart station management using Bloc + Firebase |
-| Blog App (MVVM) | Structured app following MVVM design pattern in Flutter |
+### 📱 Projects| Project                      | Description                                                                                       | Link                                                                                       |
+|------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| **E-Commerce App (Clean Architecture)** | Developed by me using Firebase for backend services and fully implementing Clean Architecture patterns for scalable and maintainable code. | [GitHub Repo](https://github.com/abdalla-sabry/e-commerceCleanArticture)                    |
+| **Clean Architecture Bookly App** | A Flutter book app built with Clean Architecture principles, focusing on modularity and scalability. | [GitHub Repo](https://github.com/abdalla-sabry/cleanarcticture_bookly_app)                  |
+| **Smart EV Charging Station App** | Real-time management of EV charging stations with Flutter and Firebase, emphasizing responsive design and robust backend integration. | *(Please provide GitHub link if available)*                                               |
+| **Bookly Cubit App** | A Flutter book app demonstrating state management using Cubit and Clean Architecture for maintainable code. | [GitHub Repo](https://github.com/abdalla-sabry/booklyappcubit)                             |
 
 ---
 

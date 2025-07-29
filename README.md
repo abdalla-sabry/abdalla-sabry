@@ -14,22 +14,27 @@
 
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
 
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="150" style="border-radius: 8px;" />
+### 👨‍🎓 About Me
 
-  <div>
-    <h3>👨‍🎓 About Me</h3>
-    <ul>
-      <li>🎓 Graduated from <strong>Helwan University</strong>, Electronics and Communication Engineering</li>
-      <li>📱 Built a <strong>mobile app for EV charging stations</strong> as my graduation project</li>
-      <li>🏗️ Experienced with <strong>Clean Architecture</strong>, <strong>MVVM</strong>, and <strong>Firebase</strong></li>
-      <li>🎨 Currently learning <strong>animations</strong> to make apps more interactive</li>
-      <li>📈 Improving my <strong>Git</strong> skills and expanding my developer toolkit</li>
-    </ul>
-  </div>
+- 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
+- 📱 Built a **mobile app for EV charging stations** as my graduation project  
+- 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
+- 🎨 Currently learning **animations** to make apps more interactive  
+- 📈 Improving my **Git** skills and expanding my developer toolkit  
 
-</div>
+    </td>
+    <td style="vertical-align: top; border: none; width: 180px;">
+
+      <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="150" style="border-radius: 10px;" />
+
+    </td>
+  </tr>
+</table>
+
 
 
 

@@ -5,8 +5,9 @@
 
 <p align="center">
   <strong>Flutter Developer</strong> from Cairo, Egypt<br>
-  Passionate about clean code, architecture, and building scalable mobile apps.
+  "Good artists copy; great artists steal."
 </p>
+
 
 ---
 

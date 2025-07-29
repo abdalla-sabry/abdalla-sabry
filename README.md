@@ -14,17 +14,22 @@
 
 
 
-### 👨‍🎓 About Me
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-- 🎓 Graduated from **Helwan University**, Electronics and Communication Engineering  
-- 📱 Built a **mobile app for EV charging stations** as my graduation project  
-- 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
-- 🎨 Currently learning **animations** to make apps more interactive  
-- 📈 Improving my **Git** skills and expanding my developer toolkit  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="150" style="border-radius: 8px;" />
 
-<p align="center">
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png?raw=true" alt="Profile Image" width="150" />
-</p>
+  <div>
+    <h3>👨‍🎓 About Me</h3>
+    <ul>
+      <li>🎓 Graduated from <strong>Helwan University</strong>, Electronics and Communication Engineering</li>
+      <li>📱 Built a <strong>mobile app for EV charging stations</strong> as my graduation project</li>
+      <li>🏗️ Experienced with <strong>Clean Architecture</strong>, <strong>MVVM</strong>, and <strong>Firebase</strong></li>
+      <li>🎨 Currently learning <strong>animations</strong> to make apps more interactive</li>
+      <li>📈 Improving my <strong>Git</strong> skills and expanding my developer toolkit</li>
+    </ul>
+  </div>
+
+</div>
 
 
 

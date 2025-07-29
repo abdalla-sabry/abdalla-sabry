@@ -12,7 +12,13 @@
 </p>
 
 
+###test
 
+- ![Graduation](https://img.shields.io/badge/University-Helwan-blue) Graduated from **Helwan University**, Electronics and Communication Engineering  
+- ![Mobile App](https://img.shields.io/badge/Project-EV_App-green) Built a **mobile app for EV charging stations** as my graduation project  
+- ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Arch-orange) Experienced with **Clean Architecture**, **MVVM**, and **Firebase**  
+- ![Animation](https://img.shields.io/badge/Learning-Animation-red) Currently learning **animations** to make apps more interactive  
+- ![Git](https://img.shields.io/badge/Skills-Git-black) Improving my **Git** skills and expanding my developer toolkit  
 
 ---
 

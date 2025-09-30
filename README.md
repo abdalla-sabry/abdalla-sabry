@@ -68,7 +68,7 @@
 
 ### 🌐 Connect with Me
 
-- 📧 Email: [abdallah.sabry.404@gmail.com](mailto:abdallah.sabry.404@gmail.com)  
+- 📧 Email: [abdallah.sabry.dev@gmail.com](mailto:abdallah.sabry.404@gmail.com)  
 - 🔗 GitHub: [abdalla-sabry](https://github.com/abdalla-sabry)  
 - 💼 LinkedIn: [linkedin.com/in/abdullah-sabry](https://www.linkedin.com/in/abdullah-sabry/)
 

@@ -26,7 +26,7 @@
   <li>🎨 Currently learning <strong>animations</strong> to make apps more interactive</li>
   <li>📈 Improving my <strong>Git</strong> skills and expanding my developer toolkit</li>
   <li>💬 Ask me about anything Flutter, I'm happy to help!</li>
-  <li>📫 Reach me at: <a href="mailto:abdallah.sabry.404@gmail.com">abdallah.sabry.404@gmail.com</a></li>
+  <li>📫 Reach me at: <a href="mailto:abdallah.sabry.dev@gmail.com">abdallah.sabry.404@gmail.com</a></li>
 </ul>
 
 
